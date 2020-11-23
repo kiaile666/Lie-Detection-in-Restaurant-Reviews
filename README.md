@@ -1,1 +1,1 @@
-# https-github.com-kiaile666-Lie-Detection-in-Restaurant-Reviews
+# Lie-Detection-in-Restaurant-Reviews
