@@ -1,1 +1,1 @@
-# Lie-Detection-in-Restaurant-Reviews
+# Lie Detection in Restaurant-Reviews
